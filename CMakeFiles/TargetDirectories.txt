@@ -1,0 +1,4 @@
+/home/sammy/SU-MikkelLNC/build-SU-Opgave-Mikkel-Desktop-Debug/CMakeFiles/SU-Opgave-Mikkel.dir
+/home/sammy/SU-MikkelLNC/build-SU-Opgave-Mikkel-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/sammy/SU-MikkelLNC/build-SU-Opgave-Mikkel-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/sammy/SU-MikkelLNC/build-SU-Opgave-Mikkel-Desktop-Debug/CMakeFiles/SU-Opgave-Mikkel_autogen.dir
